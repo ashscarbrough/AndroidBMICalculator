@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="bmiGridLayoutColumnCount">3</integer>
+    <integer name="bmiGridLayouthRowCount">11</integer>
+    <integer name="yourBMISpan">2</integer>
+    <integer name="yourBMIColumnSpan">2</integer>
+    <integer name="buttonSpan">3</integer>
+</resources>
